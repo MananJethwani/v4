@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://mananjethwani.github.io/sitemap/sitemap-index.xml
+Host: https://mananjethwani.github.io

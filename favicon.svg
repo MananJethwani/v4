@@ -1,0 +1,19 @@
+<svg id="logo" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 84 96">
+    <title>Logo</title>
+    <g transform="translate(-8.000000, -2.000000)">
+      <g transform="translate(11.000000, 5.000000)">
+<polygon
+          id="Shape"
+          stroke="currentColor"
+          strokeWidth="5"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          points="39 0 0 22 0 67 39 90 78 68 78 23"
+        />
+        <path
+          d="M15 66 L15 22 L21 22 L39 48 L55 22 L61 22 L61 66 L55 66 L55 35 L39 58 L21 35 L21 66"
+          fill="#64ffda"
+        />
+      </g>
+    </g>
+  </svg>
